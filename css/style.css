@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(118, 107, 86);
+}
+/*header*/
+.header{
+    height: 400px;
+    width: auto;
+    background-size: cover;
+    background-image: url("/images/fond.jpg");
+    background-repeat: no-repeat;
+    box-shadow: 0px 3px 6px  rgb(227, 25, 25);
+}
+header div p{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20%;
+}
+/* menu */
+.dropdown-item:hover{
+    background-color: red;
+    color: black;
+}
+/*titres*/
+h1, h2{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: red;
+}
+.img.téléchargement {
+    width: 150px;
+}
+.source:hover{
+    color:red;
+
+}
