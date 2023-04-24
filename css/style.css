@@ -1,6 +1,10 @@
 section#list-sport{
     margin-top: 3em;
 }
+.navbar img{
+    height: 30px;
+    width: 30px;
+}
 /*dimensions des images, s'ajuste avec la taille de l'écran*/
 section#list-sport img{
 width: 100%;
@@ -10,7 +14,6 @@ height: 50%;
 text-align: center;
 }
 .hero-section{
-    background-image: url(/images/logo.jpg);
     max-width: 100%;
     height: auto;
     background-repeat: no-repeat;
