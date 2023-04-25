@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(244, 177, 177);
+}
+/*mise en forme des images*/
+section#list-sport img{
+    width: 100%;
+    height: 50%;
+}
