@@ -16,11 +16,10 @@ text-align: center;
 .hero-section{
     max-width: 100%;
     height: auto;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: red ;
     text-align: center;
     color: black;
-    padding-top: 20rem;
+    padding-top: 10rem;
     
 }
 .hero-heading{
@@ -28,4 +27,17 @@ text-align: center;
     line-height: 3.5rem;
     margin-bottom: 2.5rem;
 }
+/*footer*/
+.footer-services {
+    background-color: red;
+    border-top: 1px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+.footer-services, p {
+    font-weight: bold;
+}
+
+
 
